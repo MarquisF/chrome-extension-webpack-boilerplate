@@ -1,4 +1,4 @@
-const webpack = require("webpack"),
+var webpack = require("webpack"),
     path = require("path"),
     fileSystem = require("fs"),
     env = require("./utils/env"),
